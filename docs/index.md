@@ -1,5 +1,5 @@
 ---
-title: Team 2
+title: Team Home
 public_mode_toggle: true
 ---
 
@@ -64,7 +64,7 @@ bea testing to see who sees this. sorry if this shows up for everyone.
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
-| | | | |
+|Luca Anna Palasti |CU Boulder Geography |luca.palasti@colorado.edu | |
 | | | | |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
